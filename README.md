@@ -4,7 +4,7 @@ This repo was made with the objective to "shake off the rust" of my C skills.
 I will implement some of the most common Data Structures.
 
 - [X] Stack
-- [ ] Queue
+- [X] Queue
 - [ ] Linked List
 - [ ] Doubly Linked List 
 - [ ] Binary Tree
